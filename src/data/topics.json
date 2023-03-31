@@ -1,0 +1,105 @@
+[
+    {
+        "title": "Perfil",
+        "description": "Soy un frontend developer apasionado que se dedica a crear experiencias web. Me enorgullece decir que tengo habilidades sólidas en HTML, CSS, JavaScript y React Js. Estoy continuamente buscando nuevas tecnologías y herramientas para mejorar mi trabajo. Mi objetivo es crear soluciones de front-end de alta calidad y hacer que la web sea más intuitiva y fácil de usar. Me esfuerzo por construir sitios web que sean accesibles, adaptables y funcionen de manera fluida en cualquier dispositivo o plataforma."
+    },
+    {
+        "title": "Skills",
+        "description": ["Html, CSS, JavaScript", "React Js", "React Native (in progress)", "TypeScript", "Three Js & Gsap", "Git & GitHub"]
+    },
+    {
+        "title": "Trayectoria",
+        "description": [
+            {
+                "title": "Rapicuotas (abr. 2016 - dic. 2022)",
+                "description": "Análisis y confección de informes. Testeo y seguimiento de modificaciones a implementar en sistema de gestión Flexxus Enterprise. Auditoría integral de ventas."
+            },
+            {
+                "title": "Don telmo srl (mar. 2010 - dic. 2015)",
+                "description": "Facturación / Control de stock / Confección de pedidos / Manejo de cartera de clientes. Implementación del sistema de gestión. Creación de productos y listas de precios. Creación de informes y planillas de excel operativas."
+            }
+        ]
+    },
+    {
+        "title": "Referencias",
+        "description": [
+            {
+                "empresa": "Rapicuotas",
+                "responsable": "Brenda Rodriguez (Recursos Humanos)",
+                "contacto": "(0221) 489-0003"
+            },
+            {
+                "empresa": "Don Telmo srl",
+                "responsable": "Telmo Reynoso (CEO)",
+                "contacto": "(221) 619-0362"
+            }
+        ]
+    },
+    {
+        "title": "Educación",
+        "description": [
+            {
+                "entidad": "Universidad Nacional de La Plata",
+                "tema": "Administración de Empresas",
+                "description": "Ciclo Básico Aprobado"
+            },
+            {
+                "entidad": "Universidad Empresarial Siglo 21",
+                "tema": "Tecnicatura en Diseño y Animación Digital",
+                "description": "Completada"
+            },
+            {
+                "entidad": "Coderhouse",
+                "tema": "React Js",
+                "description": "Ver Certificado"
+            },
+            {
+                "entidad": "Coderhouse",
+                "tema": "JavaScript",
+                "description": "Ver Certificado"
+            },
+            {
+                "entidad": "Udemy",
+                "tema": "Git, Github & Gitflow - Control de Versiones",
+                "description": "Ver Certificado"
+            },
+            {
+                "entidad": "Sololearn",
+                "tema": "Python",
+                "description": "Ver Certificado"
+            },
+            {
+                "entidad": "freeCodeCamp",
+                "tema": "JavaScript Algorithms and Data Structures",
+                "description": "Ver Certificado"
+            },
+            {
+                "entidad": "LinkedIn",
+                "tema": "JavaScript esencial",
+                "description": "Ver Certificado"
+            }
+        ]
+    },
+    {
+        "title": "Contacto",
+        "description": [
+            {
+                "red": "Instagram",
+                "link": "https://www.instagram.com/cristian_ferrer/"
+            },
+            {
+                "red": "LinkedIn",
+                "link": "https://www.linkedin.com/in/cristian-ferrer-74278a32/"
+            },
+            {
+                "red": "Github",
+                "link": "https://github.com/chiky222"
+            },
+            {                
+                "name": "Cristian Ferrer",
+                "number": "(221) 15 305-9424"
+            }
+        ]
+    }
+    
+]
