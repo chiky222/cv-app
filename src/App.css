@@ -22,7 +22,7 @@
 body {
   background: var(--bg-color);
   background-repeat: no-repeat;
-  min-height: 4400px;
+  min-height: fit-content;
   min-width: 100vw;
 }
 
