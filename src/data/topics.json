@@ -1,22 +1,22 @@
 [
     {
         "title": "Perfil",
-        "description": "Soy un frontend developer apasionado que se dedica a crear experiencias web. Me enorgullece decir que tengo habilidades sólidas en HTML, CSS, JavaScript y React Js. Estoy continuamente buscando nuevas tecnologías y herramientas para mejorar mi trabajo. Mi objetivo es crear soluciones de front-end de alta calidad y hacer que la web sea más intuitiva y fácil de usar. Me esfuerzo por construir sitios web que sean accesibles, adaptables y funcionen de manera fluida en cualquier dispositivo o plataforma."
+        "description": "Soy un frontend developer apasionado que se dedica a crear experiencias web. Tengo habilidades sólidas en tecnologías como HTML, CSS, Tailwind, JavaScript y React Js. Estoy continuamente buscando nuevas herramientas para mejorar mi trabajo. Mi objetivo es crear soluciones de front-end de alta calidad y hacer que la web sea más intuitiva y fácil de usar. Me esfuerzo por construir sitios web que sean accesibles, adaptables y funcionen de manera fluida en cualquier dispositivo o plataforma."
     },
     {
         "title": "Skills",
-        "description": ["Html, CSS, JavaScript", "React Js", "React Native (in progress)", "TypeScript", "Three Js & Gsap", "Git & GitHub"]
+        "description": ["Html, CSS, JavaScript", "Tailwind", "React Js", "React Native (in progress)", "TypeScript", "Three Js & Gsap", "Git & GitHub"]
     },
     {
         "title": "Trayectoria",
         "description": [
             {
                 "title": "Rapicuotas (abr. 2016 - dic. 2022)",
-                "description": "Análisis y confección de informes. Testeo y seguimiento de modificaciones a implementar en sistema de gestión Flexxus Enterprise. Auditoría integral de ventas."
+                "description": "Gestión y conducción de equipo de trabajo. Análisis y confección de informes. Auditoría integral de ventas. Testeo y seguimiento de modificaciones a implementar en sistema de gestión"
             },
             {
                 "title": "Don telmo srl (mar. 2010 - dic. 2015)",
-                "description": "Facturación / Control de stock / Confección de pedidos / Manejo de cartera de clientes. Implementación del sistema de gestión. Creación de productos y listas de precios. Creación de informes y planillas de excel operativas."
+                "description": "Facturación / Control de stock / Confección de pedidos / Manejo de cartera de clientes. Implementación del sistema de gestión Flexxus Enterprise. Creación de productos y listas de precios. Creación de informes y planillas de excel operativas."
             }
         ]
     },
@@ -39,44 +39,60 @@
         "title": "Educación",
         "description": [
             {
+                "id": "01",
                 "entidad": "Universidad Nacional de La Plata",
                 "tema": "Administración de Empresas",
-                "description": "Ciclo Básico Aprobado"
+                "description": "Ciclo Básico Aprobado",
+                "link": ""
             },
             {
+                "id": "02",
                 "entidad": "Universidad Empresarial Siglo 21",
                 "tema": "Tecnicatura en Diseño y Animación Digital",
-                "description": "Completada"
+                "description": "Completada",
+                "link": ""
             },
             {
+                "id": "03",
                 "entidad": "Coderhouse",
                 "tema": "React Js",
-                "description": "Ver Certificado"
+                "description": "Ver Certificado",
+                "link": "https://www.coderhouse.com/certificados/637e5535e5fc24000e3a6e82"
             },
             {
+                "id": "04",
                 "entidad": "Coderhouse",
                 "tema": "JavaScript",
-                "description": "Ver Certificado"
+                "description": "Ver Certificado",
+                "link": "https://www.coderhouse.com/certificados/632344cddd7c6d001d12f76d"
             },
             {
+                "id": "05",
                 "entidad": "Udemy",
                 "tema": "Git, Github & Gitflow - Control de Versiones",
-                "description": "Ver Certificado"
+                "description": "Ver Certificado",
+                "link": "https://www.udemy.com/certificate/UC-41458a0e-fd96-4632-9153-68f3249fed2e/"
             },
             {
+                "id": "06",
                 "entidad": "Sololearn",
                 "tema": "Python",
-                "description": "Ver Certificado"
+                "description": "Ver Certificado",
+                "link": "https://www.sololearn.com/certificates/course/en/25912639/1172/landscape/png"
             },
             {
+                "id": "07",
                 "entidad": "freeCodeCamp",
                 "tema": "JavaScript Algorithms and Data Structures",
-                "description": "Ver Certificado"
+                "description": "Ver Certificado",
+                "link": "https://freecodecamp.org/certification/elcri/javascript-algorithms-and-data-structures"
             },
             {
+                "id": "08",
                 "entidad": "LinkedIn",
                 "tema": "JavaScript esencial",
-                "description": "Ver Certificado"
+                "description": "Ver Certificado",
+                "link": "https://www.linkedin.com/learning/certificates/c2e2bd0bd56efcfe38f0a4f1b311aaef552640546c07019416fd8ce44dc8970e?trk=backfilled_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bg8dYMIaKQMCl1OiO7344iQ%3D%3D"
             }
         ]
     },
@@ -85,21 +101,24 @@
         "description": [
             {
                 "red": "Instagram",
-                "link": "https://www.instagram.com/cristian_ferrer/"
+                "link": "https://www.instagram.com/cristian_ferrer/",
+                "ruta": "../img/Instagram.svg"
             },
             {
                 "red": "LinkedIn",
-                "link": "https://www.linkedin.com/in/cristian-ferrer-74278a32/"
+                "link": "https://www.linkedin.com/in/cristian-ferrer-74278a32/",
+                "ruta": "../img/LinkedIn.svg"
             },
             {
                 "red": "Github",
-                "link": "https://github.com/chiky222"
-            },
-            {                
-                "name": "Cristian Ferrer",
-                "number": "(221) 15 305-9424"
+                "link": "https://github.com/chiky222",
+                "ruta": "../img/Github.svg"
             }
         ]
+    },    
+    {                
+        "name": "Cristian Ferrer",
+        "number": "(221) 15 305-9424"
     }
     
 ]
